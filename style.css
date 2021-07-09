@@ -7,7 +7,7 @@
     margin-left: 0%;
     width: 100%;
     font-size: larger;
-    background-color: chocolate;
+    background-color: #00BCD4;
     background-size:cover;
 }
 ul li{
@@ -21,7 +21,7 @@ ul li{
    padding-left: 10%;
    font-size: larger;
    text-align: left;
-  background-color: chocolate;
+  background-color:#00BCD4;
  }
 .info{
     position: relative;
@@ -31,7 +31,7 @@ ul li{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color:chocolate;
+    background-color:#00BCD4;
 }
 .info .msg{
     max-width: 400px;
